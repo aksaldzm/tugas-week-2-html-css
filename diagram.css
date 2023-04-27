@@ -1,0 +1,244 @@
+.Title {
+	background-color: #1e88e5;
+	color: white;
+	text-align: center;
+	width: 100%;
+	cursor: pointer;
+	border-color: #1e88e5;
+}
+
+.Title2 {
+	background-color: #1e88e5;
+	color: white;
+	text-align: center;
+	width: 100%;
+	cursor: pointer;
+	border-color: #1e88e5;
+	padding: 20px;
+}
+
+.Titleabu {
+	background-color: #525354;
+	color: white;
+	text-align: center;
+	width: 100%;
+	cursor: pointer;
+	border-color: #525354;
+	padding: 5px;
+}
+.Titlesage {
+	background-color: #28b8b8;
+	color: white;
+	text-align: center;
+	width: 100%;
+	cursor: pointer;
+	border-color: #3bf7f7;
+	padding: 5px;
+}
+
+.Titlekuning {
+	background-color: #8c7d27;
+	color: white;
+	text-align: center;
+	width: 100%;
+	cursor: pointer;
+	border-color: #8c7d27;
+	padding: 5px;
+}
+
+.Titleoren {
+	background-color: #8c420d;
+	color: white;
+	text-align: center;
+	width: 100%;
+	cursor: pointer;
+	border-color: #8c420d;
+	padding: 5px;
+}
+
+.Titlemerahati {
+	background-color: #e84868;
+	color: black;
+	font-size: medium;
+	text-align: center;
+	width: 100%;
+	cursor: pointer;
+	border-color: #e84868;
+	padding: 20px;
+}
+.Titlemerahati2 {
+	background-color: #8c1d34;
+	color: white;
+	font-size: medium;
+	text-align: center;
+	width: 100%;
+	cursor: pointer;
+	border-color: #8c1d34;
+	padding: 5px;
+}
+
+
+
+
+
+
+
+ .child-card {
+            padding-bottom: 10px;
+         }
+.flex-container {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+row {
+  width: 100%;
+}
+.flex-item {
+  background-color: #FFFFFF;
+  padding: 5px;
+  width: 200px;
+  height: 150px;
+  margin: 10px;
+  line-height: 150px;
+  color: white;
+  font-weight: bold;
+  font-size: 12px;
+  text-align: center;
+  box-shadow: 0px 4px 8px rgb(0 0 0/20%)
+}
+
+.flex1{
+			margin: 10px;
+			padding: 20px;
+			border: 1px solid #ddd;
+			border-radius: 10px;
+			background-color:#FFFFFF;
+			float: right;
+			width: 35%;
+			font-size: 12px;
+			box-shadow: 0px 4px 8px rgb(0 0 0/10%)
+}
+
+.flex2{
+	margin: 10px;
+	padding: 22px;
+	border: 1px solid #ddd;
+	border-radius: 10px;
+	background-color:#FFFFFF;
+	float: right;
+	width: 35%;
+	font-size: 12px;
+	box-shadow: 0px 4px 8px rgb(0 0 0/10%)
+}
+
+.grid {
+  display: grid;
+  margin: auto;
+  grid-template-columns: repeat(2, 2fr);
+  grid-auto-rows: minmax(auto, auto);
+  grid-gap: 10px;
+
+
+}
+
+		.card2 {
+			border-radius: 10px;
+			box-shadow: 0px 0px 10px #ccc;
+			padding: 20px;
+			margin-bottom: 20px;
+			background-color: #FFFFFF;
+			box-shadow: 0px 4px 8px rgb(0 0 0/20%)
+		}
+
+		.cardabu {
+			border-radius: 10px;
+			box-shadow: 0px 0px 10px #ccc;
+			margin-bottom: 20px;
+			background-color: #d9dbde;
+			box-shadow: 0px 4px 8px rgb(0 0 0/20%)
+		}
+		.cardsage {
+			border-radius: 10px;
+			box-shadow: 0px 0px 10px #ccc;
+			margin-bottom: 20px;
+			background-color: #94f7f7;
+			box-shadow: 0px 4px 8px rgb(0 0 0/20%)
+		}
+		.cardkuning {
+			border-radius: 10px;
+			box-shadow: 0px 0px 10px #ccc;
+			margin-bottom: 20px;
+			background-color: #fae882;
+			box-shadow: 0px 4px 8px rgb(0 0 0/20%)
+		}
+		.cardmerahati {
+			border-radius: 10px;
+			box-shadow: 0px 0px 10px #ccc;
+			margin-bottom: 20px;
+			background-color: #e84868;
+			box-shadow: 0px 4px 8px rgb(0 0 0/20%)
+		}
+		.cardoren {
+			border-radius: 10px;
+			box-shadow: 0px 0px 10px #ccc;
+			margin-bottom: 20px;
+			background-color: #fa8f43;
+			box-shadow: 0px 4px 8px rgb(0 0 0/20%)
+		}
+
+
+		.card {
+			border-radius: 10px;
+			box-shadow: 0px 0px 10px #ccc;
+			
+			margin-bottom: 20px;
+			background-color: #FFFFFF;
+			box-shadow: 0px 4px 8px rgb(0 0 0/20%)
+		}
+		.cardpad {
+			border-radius: 10px;
+			box-shadow: 0px 0px 10px #ccc;
+			padding: 20px;
+			margin-bottom: 20px;
+			background-color: #FFFFFF;
+			box-shadow: 0px 4px 8px rgb(0 0 0/20%)
+		}
+		.cardpad2 {
+			border-radius: 10px;
+			box-shadow: 0px 0px 10px #ccc;
+			padding: 10px;
+			margin-bottom: 20px;
+			background-color: #FFFFFF;
+			box-shadow: 0px 4px 8px rgb(0 0 0/20%)
+		}
+		.cardpad3 {
+			border-radius: 10px;
+			box-shadow: 0px 0px 10px #ccc;
+			
+			margin-bottom: 33px;
+			background-color: #FFFFFF;
+			box-shadow: 0px 4px 8px rgb(0 0 0/20%)
+		}
+		.card-body-abu {
+			font-size: 18px;
+			background-color: #d9dbde;
+		}
+		.card-body {
+			font-size: 18px;
+			
+		}
+
+.judul1{
+	text-align: left;
+	font-size: 14px;
+	
+}
+
+.judul2{
+	font-size: 14px;
+	
+}
